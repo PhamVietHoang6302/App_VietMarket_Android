@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#eeeeee">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="95dp">
+        <LinearLayout
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/imgProfile"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    app:riv_corner_radius="40dp"
+                    android:scaleType="centerCrop"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/user1" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="Hưng Đẹp Trai"
+                    android:textColor="@color/black"
+                    android:textSize="17dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/dateChat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="17/02/03"
+                    android:textColor="#777777"
+                    android:textSize="15dp"
+                    android:layout_marginRight="10dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/txt_name"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/txt_name" />
+
+                <TextView
+                    android:id="@+id/mess"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:ellipsize="end"
+                    android:lines="1"
+                    android:text="Sài gòn đâu có lạnh đâu sao noel ra đường trai với gái"
+                    android:textColor="#777777"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/txt_name" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
