@@ -35,9 +35,7 @@ Người dùng cần đăng nhập hoặc đăng ký tài khoản để sử d�
 Sử dụng tính năng tìm kiếm để tìm các sản phẩm theo nhu cầu cá nhân.
 #### 3.Liên Hệ và Thảo Luận: 
 Sử dụng chức năng chat để liên hệ trực tiếp với người bán và thảo luận về sản phẩm.
-#### 4.Thanh Toán: 
-Sử dụng hệ thống thanh toán an toàn để hoàn tất giao dịch mua bán.
-#### 5.Đánh Giá và Phản Hồi: 
+#### 4.Đánh Giá và Phản Hồi: 
 Đánh giá và phản hồi về giao dịch để giúp cộng đồng người dùng xây dựng một môi trường mua bán chất lượng.
 
 ## Đóng Góp
