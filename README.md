@@ -1,6 +1,8 @@
 # Tên Dự Án
 
 Ứng dụng chợ Việt trên nền tảng Android
+Link driver chứa báo cáo và video demo sản phẩm
+https://drive.google.com/drive/u/1/folders/1WtI6tYPXiKkVI66_AGDYrEnRzgHlr00P
 
 ## Thành Viên
 
