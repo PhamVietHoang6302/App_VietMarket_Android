@@ -2,14 +2,16 @@
 
 Ứng dụng chợ Việt trên nền tảng Android
 
-# Link driver chứa báo cáo và video demo sản phẩm:
-https://drive.google.com/drive/u/1/folders/1WtI6tYPXiKkVI66_AGDYrEnRzgHlr00P
+
 
 ## Thành Viên
 
 1. Phan Tiến Đạt - 20021111
 2. Phạm Việt Hoàng - 20021137
 3. Nguyễn Quốc Anh - 19021146
+   
+## Link driver chứa báo cáo và video demo sản phẩm:
+https://drive.google.com/drive/u/1/folders/1WtI6tYPXiKkVI66_AGDYrEnRzgHlr00P
 
 ## Tính Năng Chính
 
