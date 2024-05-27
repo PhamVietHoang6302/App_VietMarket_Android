@@ -43,7 +43,7 @@ Sử dụng chức năng chat để liên hệ trực tiếp với người bán
 #### 4.Đánh Giá và Phản Hồi: 
 Đánh giá và phản hồi về giao dịch để giúp cộng đồng người dùng xây dựng một môi trường mua bán chất lượng.
 
-##Persona 
+## Persona 
 Minh - Người Bán Hàng
 Thông tin:
 Tên: Minh Trần
