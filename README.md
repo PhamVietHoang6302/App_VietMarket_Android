@@ -43,6 +43,19 @@ Sử dụng chức năng chat để liên hệ trực tiếp với người bán
 #### 4.Đánh Giá và Phản Hồi: 
 Đánh giá và phản hồi về giao dịch để giúp cộng đồng người dùng xây dựng một môi trường mua bán chất lượng.
 
+##Persona 
+Minh - Người Bán Hàng
+Thông tin:
+Tên: Minh Trần
+Tuổi: 35
+Nghề nghiệp: Chủ cửa hàng thời trang online
+Nhu cầu: Tìm kiếm một nền tảng hiệu quả để bán sản phẩm thời trang và tiếp cận nhiều khách hàng hơn.
+## Câu Chuyện:
+Minh là chủ một cửa hàng thời trang online và luôn tìm kiếm cách để mở rộng thị trường. Anh biết đến ứng dụng "Chợ Việt" và quyết định thử nghiệm để bán sản phẩm của mình.
+Sau khi cài đặt và đăng nhập vào ứng dụng, Minh đăng sản phẩm mới nhất của cửa hàng lên chợ trực tuyến. Anh dễ dàng thêm các thông tin chi tiết về sản phẩm, kèm theo hình ảnh và giá cả. Minh cũng sử dụng các danh mục và từ khóa để giúp sản phẩm của mình dễ dàng tiếp cận với người mua.
+Chỉ sau vài giờ, Minh nhận được tin nhắn từ một người mua tiềm năng. Anh sử dụng chức năng chat trực tuyến để trả lời các câu hỏi của khách hàng về kích cỡ và chất liệu của sản phẩm. Cuộc trò chuyện diễn ra suôn sẻ và khách hàng quyết định mua sản phẩm.
+Sau khi hoàn tất giao dịch, Minh nhận được đánh giá tích cực từ khách hàng. Điều này giúp tăng độ tin cậy và uy tín của cửa hàng anh trên ứng dụng. Minh rất hài lòng với hiệu quả của "Chợ Việt" và quyết định sử dụng ứng dụng này lâu dài để phát triển kinh doanh.
+
 ## Đóng Góp
 
 #### 1.Báo Lỗi: 
